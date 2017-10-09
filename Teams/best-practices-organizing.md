@@ -1,4 +1,4 @@
----
+
 title: Best practices for organizing teams in Microsoft Teams | Microsoft Support
 author: LolaJacobsen
 ms.author: lolaj
